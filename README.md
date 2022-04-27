@@ -1,6 +1,7 @@
-## Olá meu nome é Pedro Henrique
+<p align="center"> 
+Olá meu nome é Pedro Henrique, sou estudante de <strong>Engenharia de Computação</strong> no IFPB.
+</p>
 
-- Estudante de Engenharia de Computação no IFPB
 <div align="center">
   <a href="https://github.com/PedroHenriqueGuerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueGuerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
