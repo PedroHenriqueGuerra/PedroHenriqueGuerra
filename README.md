@@ -1,6 +1,5 @@
 <p align="center"> 
-Olá meu nome é Pedro Henrique. 
--Sou estudante de <strong>Engenharia de Computação</strong> no IFPB.
+Olá meu nome é Pedro Henrique, Sou estudante de <strong>Engenharia de Computação</strong> no IFPB.
 </p>
 
 <div align="center">
