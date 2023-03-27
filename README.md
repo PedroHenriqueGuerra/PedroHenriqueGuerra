@@ -1,9 +1,5 @@
 
-<div align="center">
-  <a href="https://github.com/PedroHenriqueGuerra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueGuerra&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueGuerra&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+
   
   
 ## Sobre
@@ -13,7 +9,7 @@ Olá meu nome é Pedro Henrique, Sou estudante de <strong>Engenharia de Computa�
 
   
 <p align="left">
-  🔥 Tecnologias: <strong>Python, Java, MySql, Jupyter.</strong>
+  🔥 Tecnologias: <strong>Python, Java, MySql, Jupyter,C , PHP, React.</strong>
 </p>
   
 <div style="display: inline_block"><br>
@@ -21,6 +17,10 @@ Olá meu nome é Pedro Henrique, Sou estudante de <strong>Engenharia de Computa�
 <img align="center" alt="Pedro-J" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Pedro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 <img align="center" alt="Pedro-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" alt="Pedro-C" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="Pedro-php" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="Pedro-React" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 </div>
   
  ##
