@@ -9,7 +9,7 @@ Olá meu nome é Pedro Henrique, Sou estudante de <strong>Engenharia de Computa�
 
   
 <p align="left">
-  🔥 Tecnologias: <strong>Python, Java, MySql, Jupyter,C , PHP, React.</strong>
+  🔥 Tecnologias: <strong>Python, Java, MySql, Jupyter, C, PHP, React.</strong>
 </p>
   
 <div style="display: inline_block"><br>
